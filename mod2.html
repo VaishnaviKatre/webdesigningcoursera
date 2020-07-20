@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" contents="width=device-width , initial-scale=1">
+	<title>
+		Our Menu
+	</title>
+	<link rel="stylesheet"  href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Our Menu</h1>
+	</header>
+
+	<div class="row">
+		
+		<div id="p1" class="col-md-4 col-sm-6 col-xs-12"><div id="h1">CHICKEN</div><p>Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes.</p></div>
+		<div id="p2" class="col-md-4 col-sm-6 col-xs-12"><div id="h2">EGGS</div><p>Eggs are laid by female animals of many different species, including birds, reptiles, amphibians, a few mammals, and fish, and many of these have been eaten by humans for thousands of years. Bird and reptile eggs consist of a protective eggshell, albumen, and vitellus.</p></div>
+		<div id="p3" class="col-md-4 col-sm-12 col-xs-12"><div id="h3">PANEER</div><p>Paneer is a fresh cheese common in the Indian subcontinent. It is an unaged, non-melting soft cheese made by curdling milk with a fruit- or vegetable-derived acid, such as lemon juice. Its acid-set form, before pressing, is called chhena.Paneer is widely used to make many dishes in India.</p></div>
+	</div>
+
+</body>
+</html>
